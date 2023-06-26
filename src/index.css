@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: 'League Spartan', sans-serif;
+}
+
+.select-status{
+  background-image: url("./assets/icon-arrow-down.svg");
+  appearance: none;
+  background-repeat: no-repeat;
+  background-position: right 16px top 50%;
+}
+
+
